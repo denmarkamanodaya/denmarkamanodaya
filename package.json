@@ -1,13 +1,10 @@
 {
-  "name": "denmarkamanodaya app",
+  "name": "denmarkamanodaya",
   "description": "My personal app using Node.JS, Ember.JS, and RESTful APIs",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
     "express": "3.1.x"
-  },
-  "devDependencies": {
-    "nodemon": "*"
   },
   "engines": {
     "node": "0.10.x",
