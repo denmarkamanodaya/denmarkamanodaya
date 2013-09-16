@@ -1,5 +1,5 @@
 var express = require('express'),
-var app = express();
+app = express();
 app.use(express.bodyParser());
 
 var ARTICLES = [
