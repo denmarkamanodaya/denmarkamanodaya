@@ -1,12 +1,16 @@
 {
-  "name": "embercast-auth-server",
-  "description": "Simple server used in the Authentication Embercast",
+  "name": "denmarkamanodaya app",
+  "description": "My personal app using Node.JS, Ember.JS, and RESTful APIs",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "express": "3.x"
+    "express": "3.1.x"
   },
   "devDependencies": {
     "nodemon": "*"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
   }
 }
